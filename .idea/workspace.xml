@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90dfa6a5-c29d-44e8-ba95-b7c64c5aa7d2" name="Changes" comment="" />
+    <list default="true" id="90dfa6a5-c29d-44e8-ba95-b7c64c5aa7d2" name="Changes" comment="Before deploy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +25,14 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29pSdQfUNmUoliHGBU6HiDoGps1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,6 +92,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="90dfa6a5-c29d-44e8-ba95-b7c64c5aa7d2" name="Changes" comment="" />
@@ -103,12 +110,35 @@
       <workItem from="1655547284335" duration="21000" />
       <workItem from="1655623908107" duration="5785000" />
       <workItem from="1655819056309" duration="7000" />
-      <workItem from="1656228340773" duration="2738000" />
+      <workItem from="1656228340773" duration="3041000" />
     </task>
+    <task id="LOCAL-00001" summary="Before deploy">
+      <created>1656231182810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656231182810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Before deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Before deploy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
